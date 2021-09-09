@@ -1,0 +1,6 @@
+C:\Users\DCL\source\repos\CrudDapper\DapperDatabase\bin\Debug\DapperDatabase.dacpac
+C:\Users\DCL\source\repos\CrudDapper\DapperDatabase\bin\Debug\DapperDatabase.dll
+C:\Users\DCL\source\repos\CrudDapper\DapperDatabase\bin\Debug\DapperDatabase.pdb
+C:\Users\DCL\source\repos\CrudDapper\DapperDatabase\obj\Debug\DapperDatabase.sqlprojAssemblyReference.cache
+C:\Users\DCL\source\repos\CrudDapper\DapperDatabase\obj\Debug\DapperDatabase.dll
+C:\Users\DCL\source\repos\CrudDapper\DapperDatabase\obj\Debug\DapperDatabase.pdb
